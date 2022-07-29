@@ -14,3 +14,6 @@ yarn add @react-navigation/bottom-tabs
 --------
 yarn add @react-navigation/material-bottom-tabs react-native-paper
 yarn add react-native-responsive-fontsize
+
+expo install expo-font
+expo install expo-app-loading
