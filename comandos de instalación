@@ -10,3 +10,7 @@ expo install react-native-safe-area-context
 expo install @react-native-community/masked-view
 
 yarn add @react-navigation/bottom-tabs
+
+--------
+yarn add @react-navigation/material-bottom-tabs react-native-paper
+yarn add react-native-responsive-fontsize
