@@ -17,3 +17,5 @@ yarn add react-native-responsive-fontsize
 
 expo install expo-font
 expo install expo-app-loading
+
+yarn add react-native-dropdown-picker
