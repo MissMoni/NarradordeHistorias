@@ -19,3 +19,9 @@ expo install expo-font
 expo install expo-app-loading
 
 yarn add react-native-dropdown-picker
+
+Instalación paquetes para firebase
+yarn add firebase@^8.2.10
+
+instalación de paquetes para stack navigation (dependencia completa)
+yarn add react-navigation
